@@ -1,0 +1,14 @@
+# Jekyll / GitHub Pages — https://docs.github.com/en/pages
+title: Архивирование в Linux
+description: zip, tar, gzip, xz, zstd, pv и удобные алиасы в Bash
+theme: jekyll-theme-cayman
+markdown: kramdown
+
+# Сайт на https://USER.github.io/ИМЯ-РЕПО/ — укажите имя репозитория (со слэшем в начале):
+# baseurl: "/c0dr"
+#
+# Корневой сайт https://USER.github.io/ (репозиторий USER.github.io) — оставьте пустым:
+baseurl: ""
+
+# Полный URL сайта (для канонических ссылок и OG; для проектного Pages обычно задают вручную):
+# url: "https://USER.github.io"
