@@ -4,11 +4,10 @@ description: zip, tar, gzip, xz, zstd, pv и удобные алиасы в Bash
 theme: jekyll-theme-cayman
 markdown: kramdown
 
-# Сайт на https://USER.github.io/ИМЯ-РЕПО/ — укажите имя репозитория (со слэшем в начале):
-# baseurl: "/c0dr"
-#
-# Корневой сайт https://USER.github.io/ (репозиторий USER.github.io) — оставьте пустым:
-baseurl: ""
+# Проектный сайт https://zenc0dr.github.io/c0dr/ — имя репозитория со слэшем:
+baseurl: "/c0dr"
 
-# Полный URL пользовательского сайта (репозиторий должен называться zenc0dr.github.io):
+# Для корневого сайта https://zenc0dr.github.io/ переименуйте репо в zenc0dr.github.io и поставьте:
+# baseurl: ""
+
 url: "https://zenc0dr.github.io"
