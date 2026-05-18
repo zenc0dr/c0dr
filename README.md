@@ -2,6 +2,9 @@
 
 Статический сайт на [GitHub Pages](https://pages.github.com/) (Jekyll + тема Cayman).
 
+- Главная: `index.md` — список материалов.
+- Статья про архивы: `archiving-linux.md` — отдельная страница, URL после сборки: `/archiving-linux/` (с учётом `baseurl` репозитория).
+
 ## Публикация
 
 1. Создайте репозиторий на GitHub и отправьте туда этот проект.
