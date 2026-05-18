@@ -10,5 +10,5 @@ markdown: kramdown
 # Корневой сайт https://USER.github.io/ (репозиторий USER.github.io) — оставьте пустым:
 baseurl: ""
 
-# Полный URL сайта (для канонических ссылок и OG; для проектного Pages обычно задают вручную):
-# url: "https://USER.github.io"
+# Полный URL пользовательского сайта (репозиторий должен называться zenc0dr.github.io):
+url: "https://zenc0dr.github.io"
