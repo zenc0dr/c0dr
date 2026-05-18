@@ -1,0 +1,60 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Читабельность: Cayman по умолчанию даёт слишком светлый серый текст */
+body {
+  color: #1f2328;
+}
+
+.main-content {
+  color: #1f2328;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: #0d1117;
+}
+
+.main-content p,
+.main-content li,
+.main-content td,
+.main-content th {
+  color: #1f2328;
+}
+
+.main-content blockquote {
+  color: #24292f;
+  border-left-color: #8c959f;
+}
+
+.main-content code {
+  color: #24292f;
+  background-color: #eff1f3;
+}
+
+.main-content pre {
+  border: 1px solid #d0d7de;
+}
+
+.main-content pre > code {
+  color: #1f2328;
+}
+
+.main-content a {
+  color: #0550ae;
+}
+
+.main-content a:hover {
+  color: #0344a3;
+}
+
+.site-footer,
+.site-footer-credits {
+  color: #424a53;
+}
